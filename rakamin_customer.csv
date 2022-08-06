@@ -1,0 +1,89 @@
+id_pelanggan,nama,email,telepon,umur,bulan_lahir,tanggal_registrasi,konfirmasi_telepon,penipu,pengguna_aktif
+1,Fakhrul Fandy Widyaningtias,fakhrulfandywidyaningtias@outlook.com,6285244454,27,Juni,2012-02-18,1,0,1
+2,Ferdiansyah Amalina,ferdiansyahamalina@yahoo.com,6285244688,31,Agustus,2012-06-29,1,0,1
+3,Ficky Rizkyananta,fickyrizkyananta@hotmail.com,6285244922,15,Februari,2013-06-04,1,0,1
+4,Singgih Kharisma,singgihkharisma@hotmail.com,6285245156,49,Januari,2013-01-13,1,0,1
+5,Jeremiah Dinanti,jeremiahdinanti@roketmail.com,6285245390,25,Januari,2012-02-15,1,0,1
+6,Ridhwan Noerani,ridhwannoerani@hotmail.com,6285245624,43,Januari,2013-05-02,1,0,1
+7,Okky Oktaviaman,okkyoktaviaman@roketmail.com,6281906358,35,Maret,2012-04-29,1,0,1
+8,Dikposa Yosua Krisnanto,dikposayosuakrisnanto@hotmail.com,6281907247,28,April,2013-12-02,1,0,1
+9,Dhanu Rahman,dhanurahman@gmail.com,6281908136,26,Mei,2013-07-16,1,0,1
+10,Bob Arisa,bobarisa@yahoo.com,6281909025,40,Desember,2012-11-11,1,0,1
+11,Omar Afini,omarafini@gmail.com,6281909914,48,November,2013-01-10,1,0,1
+12,Sutrisno Rizal,sutrisnorizal@outlook.com,6281910803,36,Januari,2012-09-20,1,0,1
+13,Hilman Azalia,hilmanazalia@hotmail.com,6281911692,17,Maret,2013-11-15,1,0,1
+14,Lintang Bertauli,lintangbertauli@gmail.com,6281912581,33,April,2013-05-14,1,0,1
+15,Reynard Ramadhansyah,reynardramadhansyah@gmail.com,6289623545,34,Mei,2012-04-24,1,0,1
+16,Kevin Ningsih,kevinningsih@roketmail.com,6289624758,49,Oktober,2013-10-23,1,0,1
+17,Rifqy Butar-butar,rifqybutar-butar@yahoo.com,6289625971,30,September,2012-01-14,1,1,1
+18,Wahyu Hayati,wahyuhayati@gmail.com,6289627184,23,Desember,2012-09-15,1,1,1
+19,Andi Mayasopha,andimayasopha@yahoo.com,6289628397,36,Juni,2012-10-16,1,0,1
+20,Yutama Riahdita,yutamariahdita@gmail.com,6289629610,48,Agustus,2012-03-08,1,0,1
+21,Haikal Nurahmadhita,haikalnurahmadhita@roketmail.com,6289630823,37,Februari,2013-11-05,1,0,1
+22,Thomas Geryance,thomasgeryance@roketmail.com,6289632036,40,Januari,2012-09-23,1,0,1
+23,Muhamad Pramanda,muhamadpramanda@outlook.com,6289633249,16,Januari,2012-05-16,1,0,1
+24,Ramanta Pasha,ramantapasha@gmail.com,6287832435,49,Januari,2013-03-29,0,0,1
+25,Sakti Hasaniy,saktihasaniy@outlook.com,6287832669,31,Maret,2013-08-28,1,0,1
+26,Rian Mufti,rianmufti@outlook.com,6287832903,24,April,2013-06-04,1,0,1
+27,Doni Teddo Prasetyani,doniteddoprasetyani@yahoo.com,6287833137,30,Mei,2013-04-10,1,0,1
+28,Fahmi Haq,fahmihaq@gmail.com,6287833371,17,Desember,2012-09-21,1,0,1
+29,Rheza Novianti,rhezanovianti@yahoo.com,6287833605,26,November,2013-06-13,1,0,1
+30,Herdaru Junaidi,herdarujunaidi@outlook.com,6287833839,50,Januari,2013-07-29,1,0,1
+31,Eka Tiodimar,ekatiodimar@roketmail.com,6287834073,40,Maret,2012-07-08,1,0,1
+32,Sebastian Mitsuko,sebastianmitsuko@roketmail.com,6287834307,44,April,2012-11-09,0,0,1
+33,Rinaldy Octaza,rinaldyoctaza@outlook.com,6287834541,35,Mei,2013-06-03,0,0,1
+34,Ismail Wardhani,ismailwardhani@hotmail.com,6287834775,18,Oktober,2012-05-02,1,0,1
+35,Alfin Chairunisa,alfinchairunisa@gmail.com,628445557,20,September,2013-03-16,0,0,1
+36,Revi Aswin Fatimah,reviaswinfatimah@roketmail.com,6287857786,21,Desember,2012-05-25,1,0,1
+37,Faishal Listisni,faishallistisni@outlook.com,6287858020,23,Mei,2013-07-05,1,0,0
+38,Jova Imania,jovaimania@gmail.com,628468802,17,Oktober,2012-10-28,0,0,0
+39,Izhar Halim,izharhalim@gmail.com,6287881031,32,September,2013-01-23,1,0,1
+40,Garin Sugiyanto,garinsugiyanto@yahoo.com,6287881265,33,Desember,2012-09-27,1,0,1
+41,Edy Fitriyah,edyfitriyah@roketmail.com,6287883533,19,Mei,2013-07-15,1,0,1
+42,Geraldi Lalo,geraldilalo@hotmail.com,6287885801,50,Mei,2012-09-05,1,0,1
+43,Yusuf Tilasnuari,yusuftilasnuari@hotmail.com,6287888069,31,Juli,2013-02-01,1,0,1
+44,Lukman Naufal Simorangkir,lukmannaufalsimorangkir@gmail.com,6287890337,20,Juli,2012-05-19,0,0,1
+45,Maruto Asih,marutoasih@yahoo.com,6287892605,47,Juni,2012-01-16,1,0,1
+46,Azrul Satria,azrulsatria@yahoo.com,6287894873,27,Agustus,2012-04-16,1,0,0
+47,Anton Fikri,antonfikri@hotmail.com,6287897141,38,Desember,2013-02-17,1,0,1
+48,Anugrah Sastra,anugrahsastra@outlook.com,6287899409,35,November,2013-12-10,1,0,1
+49,Sigit Amalia,sigitamalia@roketmail.com,6287892844,48,Maret,2013-02-23,1,0,1
+50,Rizki Faishal Apriyani,rizkifaishalapriyani@roketmail.com,6287886279,42,Maret,2013-03-20,0,0,1
+51,Athirah Atsila,athirahatsila@yahoo.com,6287879714,47,April,2012-11-23,1,0,1
+52,Indah Khairunisa,indahkhairunisa@roketmail.com,6287873149,40,Mei,2012-04-01,1,0,1
+53,Dela Harkart,delaharkart@outlook.com,6287866584,39,Oktober,2013-10-31,1,0,0
+54,Anindyanti Bayhacki,anindyantibayhacki@yahoo.com,6287860019,21,September,2012-03-28,1,0,1
+55,Anastasia Primanelza,anastasiaprimanelza@roketmail.com,6287853454,40,Desember,2013-08-18,0,0,1
+56,Anna Usra,annausra@roketmail.com,6287846889,42,Mei,2012-09-10,1,0,1
+57,Rianita Santi,rianitasanti@yahoo.com,6287840324,15,Oktober,2012-04-10,1,0,0
+58,Nadia Persadani,nadiapersadani@roketmail.com,6287833759,25,Juli,2012-10-26,1,1,1
+59,Rayhana Hidayatul,rayhanahidayatul@hotmail.com,6287827194,25,Juni,2013-09-30,1,0,1
+60,Hanifa Ivangkia,hanifaivangkia@gmail.com,6287820629,47,Agustus,2012-08-22,1,0,1
+61,Amadea Octaza,amadeaoctaza@roketmail.com,6287814064,17,Desember,2012-06-01,0,0,1
+62,Auzy Narendra,auzynarendra@outlook.com,6287807499,35,November,2012-07-20,1,0,1
+63,Rocitha Mufti,rocithamufti@roketmail.com,6285347733,33,Maret,2012-12-26,1,0,1
+64,Amalia Widi Abelardo,amaliawidiabelardo@outlook.com,6285341168,17,Maret,2013-01-24,1,0,1
+65,Puspa Fariza,puspafariza@yahoo.com,6285334603,34,April,2012-08-14,1,0,1
+66,Clara Amira,claraamira@hotmail.com,6285328038,35,Mei,2013-11-23,0,0,0
+67,Hilary Adha,hilaryadha@yahoo.com,6285321473,15,Juni,2013-03-26,1,0,1
+68,Reny Oktavianty,renyoktavianty@gmail.com,6285314908,30,Agustus,2012-10-26,1,0,1
+69,Salsabila Resa,salsabilaresa@hotmail.com,6285308343,32,Desember,2013-11-15,1,0,1
+70,Fathina Narimanda,fathinanarimanda@yahoo.com,6285301778,24,November,2012-12-02,1,0,1
+71,Moerdiati Ramsihs,moerdiatiramsihs@roketmail.com,6285295213,16,Maret,2013-08-25,0,0,0
+72,Bella Listyani,bellalistyani@hotmail.com,6285288648,45,Maret,2013-10-01,1,0,1
+73,Natasha Fadholi,natashafadholi@gmail.com,6285282083,49,April,2013-02-08,1,1,1
+74,Berty Yulianti,bertyyulianti@gmail.com,6285275518,22,Mei,2013-02-18,1,0,1
+75,June Andjani,juneandjani@gmail.com,6285268953,45,Desember,2013-09-01,1,0,1
+76,Kautsar Jaelani,kautsarjaelani@yahoo.com,6285262388,29,November,2012-02-08,1,0,1
+77,Amanda Idayu,amandaidayu@yahoo.com,6285255823,17,Maret,2012-01-10,0,0,1
+78,Ovienov Asti Idrus,ovienovastiidrus@outlook.com,6285249258,15,Maret,2012-04-08,1,0,1
+79,Saliha Husein,salihahusein@outlook.com,6285242693,49,April,2012-01-22,1,0,1
+80,Yosia Jaya,yosiajaya@yahoo.com,6285236128,22,Mei,2012-06-30,1,0,1
+81,Desi Fauziyah,desifauziyah@outlook.com,6285229563,34,Maret,2013-01-29,1,0,1
+82,Tresna Rianita Prasojo,tresnarianitaprasojo@yahoo.com,6285222998,44,Maret,2012-05-25,0,0,1
+83,Rarahayu Verev,rarahayuverev@outlook.com,6285216433,15,April,2013-02-22,1,0,1
+84,Janiar Satria,janiarsatria@outlook.com,6285209868,17,Mei,2012-03-20,1,0,1
+85,Retno Maulinda,retnomaulinda@roketmail.com,6285203303,28,November,2012-07-30,1,0,1
+86,Abdul Gofar,a.gofar@gmail.com,62815678555,33,,2012-03-12,1,0,1
+87,Uswatun Hasanah,,62813688235,23,,2012-09-23,0,0,1
+88,Adi Putranto,adiputranto@live.com,62852688775,29,,2012-11-03,1,0,1
